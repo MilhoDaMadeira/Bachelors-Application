@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Trail Making Test.unity
+    guid: e58676dc685751548b1b4114a0f7d445
+  - enabled: 1
+    path: Assets/Scenes/Stroop Test.unity
+    guid: 97ec2f884398d2047b3b0fcae72c5e74
+  - enabled: 1
+    path: Assets/Scenes/Naming Images.unity
+    guid: b084d09fcbc355f4f8dd35e02927e3db
+  - enabled: 0
+    path: Assets/Samples/Tobii XR SDK/3.0.1/Getting Started/Example_GettingStarted.unity
+    guid: 221a337531f80eb4eb510b1cd2874c53
+  - enabled: 0
+    path: Assets/Samples/Tobii XR SDK/3.0.1/Developer Tools/Example_DevTools.unity
+    guid: 3ac82b1e304123e44943e79a20128bfa
+  - enabled: 0
+    path: Assets/ViveSR/Scenes/Eye/EyeSample_v2.unity
+    guid: 95faae79a7fda8248a4f435507170572
+  - enabled: 0
+    path: Assets/ViveSR/Scenes/Eye/EyeSample.unity
+    guid: 442215360aef07847ac6dc9a96f5c584
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 86e3a0cf06b48c740a595292d45c4593, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 7eeb1c1a430ec404e810146d53330a3f, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: b0c09a51a57234a4b8b45ae45ec5bd5f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9ae7afb059ff7d142acc66619f4a1626, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2540a080e3d1d094c913038cc33764f9, type: 2}
